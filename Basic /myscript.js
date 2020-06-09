@@ -6,20 +6,22 @@
  */
 
 // all elements
-// $("*").css("background-color", "yellow");
+$("*").css("background-color", "yellow");
 
 // all p elements
 
+$("p").css("background-color", "blue");
 
 // the p element with an ID of "intro"
 
+$("#intro").css("background-color", "red");
 
 // all elements with a class of "note"
-
+$(".note").css("background-color", )
 
 // all DIV elements with a class of note
 
-
+$("div .note").css("background-color", "black");
 // all p elements in the article element
 
 
