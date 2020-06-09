@@ -1,0 +1,41 @@
+[{
+	"name": "Tiger Woods",
+	"relation": "grandfather",
+	"status": 2,
+	"image": "img/cat1.jpg"
+},{
+	"name": "Minki",
+	"relation": "little sister",
+	"status": 1,
+	"image": "img/cat2.jpg"
+},{
+	"name": "Granny",
+	"relation": "grandmother",
+	"status": 2,
+	"image": "img/cat3.jpg"
+},{
+	"name": "Mutsch",
+	"relation": "mother",
+	"status": 1,
+	"image": "img/cat4.jpg"
+},{
+	"name": "Dizzy",
+	"relation": "older brother",
+	"status": 1,
+	"image": "img/cat5.jpg"
+},{
+	"name": "Lolly",
+	"relation": "little sister 2",
+	"status": 1,
+	"image": "img/cat6.jpg"
+},{
+	"name": "Scar",
+	"relation": "uncle",
+	"status": 3,
+	"image": "img/cat7.jpg"
+},{
+	"name": "Simba",
+	"relation": "father",
+	"status": 1,
+	"image": "img/cat8.jpg"
+}]
