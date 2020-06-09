@@ -28,14 +28,17 @@ $("article p").css("color", "grey");
 
 // the last element in any section which is a p tag
 
+$("p:last").css("color", "green");
 
 // the first paragraph on the page
 
+$("p:first").css("background-color", "yellow");
 
 // all p elements which have a link
 $("[href]").css("color", "blue");
 
 // the second li within nested ul element
 
+$("ul li:eq(1)").css("background-color", "greenyellow");
 
 // every second and third p element
