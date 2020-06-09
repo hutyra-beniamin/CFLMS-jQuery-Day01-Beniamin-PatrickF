@@ -24,6 +24,7 @@ $(".note").css("background-color", )
 $("div .note").css("background-color", "black");
 // all p elements in the article element
 
+$("article p").css("color", "grey");
 
 // the last element in any section which is a p tag
 
@@ -32,7 +33,7 @@ $("div .note").css("background-color", "black");
 
 
 // all p elements which have a link
-
+$("[href]").css("color", "blue");
 
 // the second li within nested ul element
 
