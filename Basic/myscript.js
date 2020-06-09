@@ -42,3 +42,5 @@ $("[href]").css("color", "blue");
 $("ul li:eq(1)").css("background-color", "greenyellow");
 
 // every second and third p element
+
+$("p:nth-child(2n),p:nth-child(3n)").css("color", "white");
